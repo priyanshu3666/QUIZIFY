@@ -1,6 +1,5 @@
-# Quizify
+# Quizify : Project Status
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Project Status:
 1. This respository about the quiz App named "Quizify".
 2. Project to Practice MCQ questions of various subjects.
 3. Quiz App consists of 5 activities:
