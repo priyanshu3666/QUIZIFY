@@ -28,8 +28,8 @@
         android:textColor="#2B2929"
         android:textSize="40sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toBottomOf="@+id/logoview"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/logoview"
         app:layout_constraintTop_toTopOf="@+id/logoview" />
 </androidx.constraintlayout.widget.ConstraintLayout>
